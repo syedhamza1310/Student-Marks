@@ -1,4 +1,5 @@
-        function calculateResult() {
+
+function calculateResult() {
             let math = Number(document.getElementById("math").value) || 0;
             let urdu = Number(document.getElementById("urdu").value) || 0;
             let english = Number(document.getElementById("english").value) || 0;
